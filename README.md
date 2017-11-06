@@ -2,7 +2,7 @@
 An API of getting YouTube videos data by author name
 
 How to get videos by an author name
-Using: http://localhost:8080/?author={author-name}
+Using: http://localhost:8080/?author={authorname}
 
 Playlist items pagination from YouTube data API is considered.
 
